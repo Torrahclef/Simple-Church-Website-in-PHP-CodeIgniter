@@ -1,0 +1,18 @@
+Thanks for doing business with us!
+
+Installation of this script is simple. Just follow the instructions listed bellow;
+
+1. Import the SQL file located at 'church/DATABASE/church.sql' into your Database.
+
+2. Go to church/application/config/database.php to edit your database settings.
+
+3. Launch app in your browser.
+
+Enjoy! Thanks.
+
+We look up to futher business with you. 
+Thanks.
+
+Hillsofts Tech
+Whatsapp: +2348138652645
+hillsofts@gmail.com
